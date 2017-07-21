@@ -90,12 +90,12 @@ var myName = () => 'Emily';
 
 //Now save the function definition of myName into a new variable called newMyName
 
-var myNewName = myName;
-// myNewName();
+var newMyName = myName;
+// newMyName();
 
 //Now alert the result of invoking newMyName
 
-alert(myNewName());
+alert(newMyName());
 
 
 
